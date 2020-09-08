@@ -165,7 +165,7 @@ class Visualizador extends CI_Model {
             return $datos;
         } else {
             //
-            return 2;
+            return $datos;
         }
     }
 
